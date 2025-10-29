@@ -1,32 +1,31 @@
 # Clasificación de Dígitos MNIST con Redes Neuronales Convolucionales
+[Autor 1]
+[Autor 2]
+[Autor 3]
 
 ### Descripción de la tarea
-Este proyecto demuestra la implementación y análisis de una Red Neuronal Convolucional (CNN) pre-entrenada para la clasificación de dígitos MNIST. El cuaderno incluye varios ejercicios para comprender y visualizar el comportamiento del modelo, incluyendo visualización de kernels, operaciones de convolución y predicciones en imágenes personalizadas.
+[Descripción de la tarea realizada, métodos utilizados y resultados obtenidos]
 
-### Características
-- Carga y uso de un modelo MNIST pre-entrenado
-- Evaluación del modelo en datos de prueba
-- Visualización y análisis de kernels
-- Visualización de operaciones de convolución
-- Capacidades de predicción en imágenes personalizadas
+### Características implementadas
+- [Listar características específicas implementadas]
+- [Resultados y observaciones relevantes]
+- [Técnicas y métodos utilizados]
 
 ### Requisitos
-- Python 3.9+
-- TensorFlow
-- NumPy
-- Matplotlib
-- Requests
+[Instrucciones para configuración de ambiente e instalación de paquetes]
 
 ### Uso
-1. Ejecutar las celdas del cuaderno en secuencia
-2. El modelo se descargará automáticamente desde Hugging Face
-3. Seguir los ejercicios en el cuaderno para:
-   - Visualizar los kernels del modelo
-   - Analizar las operaciones de convolución
-   - Realizar predicciones en imágenes personalizadas
+[Instrucciones específicas para ejecutar el proyecto]
 
-### Ejercicios Incluidos
-1. Visualización de al menos 10 kernels del modelo pre-entrenado
-2. Visualización de las salidas de la convolución con los kernels
-3. Predicciones en al menos 10 imágenes propias
-4. Repetición del análisis de convolución con imágenes personalizadas
+### Conclusiones
+[Conclusiones y observaciones del trabajo realizado]
+
+### Referencias
+[Referencias y recursos utilizados]
+
+**Nivel de uso de herramientas de IA**: [Describir aquí el nivel de uso de herramientas de IA durante el desarrollo del proyecto:]
+
+Ejemplos de nivel:
+- **Bajo**: Uso esporádico para consultas puntuales
+- **Medio**: Uso regular para ayuda en código y depuración
+- **Alto**: Uso extensivo en desarrollo, documentación y análisis
